@@ -72,7 +72,3 @@ PhonePe aims to analyze insurance transactions to identify the top states, distr
 
     Python, SQL, PowerBI, Streamlit Library
 
-# Streamlit Output:
-
-    ![Streamlit_Home_page](https://github.com/user-attachments/assets/47de3c2c-0ac1-4b3b-abf4-3910a51b45ce)
-
